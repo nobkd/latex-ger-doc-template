@@ -8,4 +8,4 @@ pdflatex document
 makeglossaries document
 pdflatex document
 ```
-the PDF is ready and the name is `document.pdf`
+The PDF is ready and the name is `document.pdf`
